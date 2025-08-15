@@ -1,0 +1,37 @@
+h1{background-color: azure;
+    color:darkgreen;
+   text-align: center;
+
+}
+
+thead{
+    background-color: aqua;
+    color: red;
+    font-size: 20px;
+}
+table{
+    border:orchid;
+    text-align: center;
+}
+ 
+#total1{
+    background-color: aquamarine;
+    color: darkblue;
+    font-size: 20px;
+}
+#total9{
+background-color: aquamarine;
+color: darkorange;
+font-size: 20px;
+}
+
+#input1{
+background-color: pink;
+
+}
+#button1{
+background-color:red;
+color:black;
+
+}
+
